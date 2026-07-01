@@ -1,0 +1,2 @@
+Timestamp,Predicted_MMSE,Max_MMSE,Percentage,Cognitive_Status,Risk_Level,Risk_Category,Confidence_Percent,Step_Time_MS,Stride_Time_MS,IDS_MS,TDS_MS,SLS_MS,Stance_MS,Swing_MS
+2026-01-02 11:19:31,16,30,53.3,Moderate Dementia,orange,High Risk,95,260.0,,60.0,67.14285714285714,220.0,,220.0

@@ -1,0 +1,2 @@
+Step_Time_MS,Stride_Time_MS,IDS_MS,TDS_MS,SLS_MS,Stance_MS,Swing_MS,Step_Time_Sec,Stride_Time_Sec,Initial_Double_Support_Sec,Terminal_Double_Support_Sec,Single_Limb_Support_Sec,Stance_Time_Sec,Swing_Time_Sec,Timestamp,Duration_Seconds,Total_Samples,Left_Heel_Strikes,Left_Toe_Offs,Right_Heel_Strikes,Right_Toe_Offs,Predicted_MMSE,Cognitive_Status,Risk_Level,Confidence_Percent
+260.0,,60.0,67.14285714285714,220.0,,220.0,0.26,,0.06,0.0671,0.22,,0.22,2026-01-02 11:19:31,29.99,3000,668,669,687,688,16,Moderate Dementia,orange,95

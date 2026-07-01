@@ -1,0 +1,2 @@
+Step_Time_MS,Stride_Time_MS,IDS_MS,TDS_MS,SLS_MS,Stance_MS,Swing_MS,Step_Time_Sec,Stride_Time_Sec,Initial_Double_Support_Sec,Terminal_Double_Support_Sec,Single_Limb_Support_Sec,Stance_Time_Sec,Swing_Time_Sec,Timestamp,Duration_Seconds,Total_Samples,Left_Heel_Strikes,Left_Toe_Offs,Right_Heel_Strikes,Right_Toe_Offs
+,,,,,,,,,,,,,,2026-03-26 15:07:57,10.55,26,2,2,0,0

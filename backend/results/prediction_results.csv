@@ -1,0 +1,2 @@
+Timestamp,Predicted_MMSE,Max_MMSE,Percentage,Cognitive_Status,Risk_Level,Risk_Category,Confidence_Percent,Step_Time_MS,Stride_Time_MS,IDS_MS,TDS_MS,SLS_MS,Stance_MS,Swing_MS
+2026-01-01 11:11:36,27,30,90.0,Normal Cognition,green,Low Risk,65.9,550.0,1035.0,152.0,151.0,389.0,701.5,389.0

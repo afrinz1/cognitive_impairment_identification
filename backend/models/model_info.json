@@ -1,0 +1,9 @@
+{
+    "mae": 2.251845798658288,
+    "rmse": 2.845464531888657,
+    "training_samples": 750,
+    "test_samples": 250,
+    "epochs": 100,
+    "final_loss": 0.009321728721261024,
+    "final_val_loss": 0.008996297605335712
+}

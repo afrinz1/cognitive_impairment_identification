@@ -1,0 +1,5 @@
+{
+  "name": "CogniGait AI Dashboard",
+  "description": "A professional medical dashboard for visualizing gait-based cognitive assessment results using wearable IMU and LSTM prediction models.",
+  "requestFramePermissions": []
+}

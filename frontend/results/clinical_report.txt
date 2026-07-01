@@ -1,0 +1,49 @@
+
+============================================================
+GAIT ANALYSIS & COGNITIVE ASSESSMENT REPORT
+============================================================
+
+Date/Time: 2026-03-26 15:07:57
+Duration: 10.55 seconds
+
+PREDICTED MMSE SCORE: 16/30 (53.3%)
+
+COGNITIVE STATUS: Moderate Dementia
+RISK ASSESSMENT: High Risk
+CONFIDENCE LEVEL: 95%
+
+============================================================
+GAIT PARAMETERS (Bilateral Average)
+============================================================
+
+Temporal Parameters:
+  • Step Time:              nan ms
+  • Stride Time:            nan ms
+  
+Stance/Swing Distribution:
+  • Stance Phase:           nan ms
+  • Swing Phase:            nan ms
+  
+Balance Parameters:
+  • Single Limb Support:    nan ms
+  • Initial Double Support: nan ms
+  • Terminal Double Supp.:  nan ms
+
+============================================================
+GAIT EVENTS DETECTED
+============================================================
+
+Left Foot:
+  • Heel Strikes: 2
+  • Toe Offs:     2
+
+Right Foot:
+  • Heel Strikes: 0
+  • Toe Offs:     0
+
+============================================================
+
+Note: This is a computational prediction based on gait analysis.
+Clinical diagnosis should be made by qualified healthcare professionals.
+
+============================================================
